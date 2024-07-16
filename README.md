@@ -13,3 +13,5 @@ This repository contains a series of notebooks developed for learning and implem
   
 - [04. LangChain LLM Input Output Prompting with Prompt Templates](https://github.com/AnkitaMungalpara/LangChain-AI/blob/main/04_LangChain_LLM_Input_Output_Prompting_with_Prompt_Templates.ipynb): Discusses the use of prompt templates in prompt engineering to create efficient model interactions.
 
+- [05. LangChain LLM Input Output OutputParsers](https://github.com/AnkitaMungalpara/LangChain-AI/blob/main/05_LangChain_LLM_Input_Output_Output_Parsers.ipynb): Explores output parsing techniques to structure and interpret model responses.
+
