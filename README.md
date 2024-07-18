@@ -15,4 +15,4 @@ This repository contains a series of notebooks developed for learning and implem
 
 - [05. LangChain LLM Input Output OutputParsers](https://github.com/AnkitaMungalpara/LangChain-AI/blob/main/05_LangChain_LLM_Input_Output_Output_Parsers.ipynb): Explores output parsing techniques to structure and interpret model responses.
 
-- [06. LangChain LLM_Input Output Advanced_Operations](https://github.com/AnkitaMungalpara/LangChain-AI/blob/main/06_LangChain_LLM_Input_Output_Advanced_Operations.ipynb): Includes advanced operations like Costs Monitoring, Caching and Streaming response to handle LangChain inputs and outputs.
+- [06. LangChain LLM Input Output Advanced Operations](https://github.com/AnkitaMungalpara/LangChain-AI/blob/main/06_LangChain_LLM_Input_Output_Advanced_Operations.ipynb): Includes advanced operations like Costs Monitoring, Caching and Streaming response to handle LangChain inputs and outputs.
